@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "179705055159",
+    "firebase_url": "https://believable-17866.firebaseio.com",
+    "project_id": "believable-17866",
+    "storage_bucket": "believable-17866.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179705055159:android:c4ae379bd9d8da60d90a32",
+        "android_client_info": {
+          "package_name": "com.example.believable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179705055159-3fs0qg0mm6fbelm35sm1snbu0eg488mj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm3rKDSO6Dd0wkiD5ON_nnNDwQ2u6fpKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179705055159-3fs0qg0mm6fbelm35sm1snbu0eg488mj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
